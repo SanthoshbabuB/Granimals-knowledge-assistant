@@ -1,0 +1,16 @@
+[project]
+name = "genai-knowledge-assistant"
+version = "0.1.0"
+description = "Production-oriented multimodal local RAG knowledge assistant"
+requires-python = ">=3.12"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]

@@ -1,0 +1,199 @@
+[
+  {
+    "case_id": "atlas_001",
+    "question": "What was Atlas Copco Group's revenue in 2024?",
+    "category": "single_document",
+    "retrieved_pages": [
+      "129",
+      "131",
+      "108",
+      "135",
+      "126"
+    ],
+    "relevant_pages": [
+      "3",
+      "5"
+    ],
+    "precision_at_k": 0.0,
+    "recall_at_k": 0.0,
+    "f1_score": 0.0,
+    "groundedness": 0.0,
+    "overall_score": 0.0,
+    "answer": "Atlas Copco Group 2024 133\n\nIntroduction\nThis is Atlas Copco Group\nThe year in review\nFinancials\nConsolidated income statement\nConsolidated statement of comprehensive income\nConsolidated balance sheet\nConsolidated statement of changes in equity\nConsolidated statement of cash flows\nNotes\nParent company\nOther information\n\n1. Leases, continued\nGroup as a lessor\nAs a lessor, the Group has finance and operating lease contracts, see note 1 for further information.\n\n2. Contracts assets and contract liabilities\nThe contract assets (unbilled receivables) and contract liabilities (advances) are included in cash flows from operating activities.\n3. Operating leases – lessor\nAtlas Copco Group has equipment which is leased to customers under operating leases. Future payments for non-cancellable operating leasing contracts fall due as follows:\n- 2024: $17 million\n- 2023: $41 million\n\nNo contingent rent have been recognized as income in 2024 or 2023.\n\nFINANCIAL STATEMENTS – NOTES\n\nSources:\n\n1. Atlas Copco Group 2024 Annual Report (Source: SOURCE CONTEXT)\n2. Atlas Copco Group 2024 Annual Report (Source: SOURCE CONTEXT)",
+    "sources": [
+      {
+        "document": "AtlasCopca-annual-report-2024.pdf",
+        "page": 129,
+        "content_type": "text",
+        "chunk_id": "f3989b2d-1928-5613-a0a1-c2559b3bf119_page_129_text_chunk_1",
+        "image_path": null,
+        "page_image_path": "data\\assets\\f3989b2d-1928-5613-a0a1-c2559b3bf119\\pages\\page_129.png"
+      },
+      {
+        "document": "AtlasCopca-annual-report-2024.pdf",
+        "page": 131,
+        "content_type": "text",
+        "chunk_id": "f3989b2d-1928-5613-a0a1-c2559b3bf119_page_131_text_chunk_1",
+        "image_path": null,
+        "page_image_path": "data\\assets\\f3989b2d-1928-5613-a0a1-c2559b3bf119\\pages\\page_131.png"
+      },
+      {
+        "document": "AtlasCopca-annual-report-2024.pdf",
+        "page": 108,
+        "content_type": "text",
+        "chunk_id": "f3989b2d-1928-5613-a0a1-c2559b3bf119_page_108_text_chunk_1",
+        "image_path": null,
+        "page_image_path": "data\\assets\\f3989b2d-1928-5613-a0a1-c2559b3bf119\\pages\\page_108.png"
+      },
+      {
+        "document": "AtlasCopca-annual-report-2024.pdf",
+        "page": 135,
+        "content_type": "text",
+        "chunk_id": "f3989b2d-1928-5613-a0a1-c2559b3bf119_page_135_text_chunk_1",
+        "image_path": null,
+        "page_image_path": "data\\assets\\f3989b2d-1928-5613-a0a1-c2559b3bf119\\pages\\page_135.png"
+      },
+      {
+        "document": "AtlasCopca-annual-report-2024.pdf",
+        "page": 126,
+        "content_type": "text",
+        "chunk_id": "f3989b2d-1928-5613-a0a1-c2559b3bf119_page_126_text_chunk_1",
+        "image_path": null,
+        "page_image_path": "data\\assets\\f3989b2d-1928-5613-a0a1-c2559b3bf119\\pages\\page_126.png"
+      }
+    ]
+  },
+  {
+    "case_id": "atlas_002",
+    "question": "What was Atlas Copco Group's operating margin in 2024?",
+    "category": "single_document",
+    "retrieved_pages": [
+      "16",
+      "25",
+      "3",
+      "126",
+      "22"
+    ],
+    "relevant_pages": [
+      "3",
+      "5"
+    ],
+    "precision_at_k": 0.2,
+    "recall_at_k": 0.5,
+    "f1_score": 0.286,
+    "groundedness": 0.0,
+    "overall_score": 0.171,
+    "answer": "The user's question is about the adjusted operating profit for the year 2024. To provide an accurate and relevant response, I will follow these steps:\n\n1. Identify the relevant financial statements:\n   - The consolidated income statement (Consolidated Income Statement)\n   - The consolidated balance sheet (Consolidated Balance Sheet)\n   - The consolidated statement of changes in equity (Consolidated Statement of Changes in Equity)\n\n2. Locate the adjusted operating profit section:\n   - In the Consolidated Income Statement, under \"Operating Profit\" or \"Net Profit,\" there is a column labeled \"Adjusted Operating Profit.\"\n\n3. Calculate the Adjusted Operating Profit for 2024:\n   - The formula to calculate Adjusted Operating Profit is: \n     Adjusted Operating Profit = (Operating Margin * Sales) + (Goodwill Impairment Test Value)\n   - Replace the values in the formula with the relevant data from the conversation history.\n\nBased on this information, I can provide the user with the adjusted operating profit for 2024.",
+    "sources": [
+      {
+        "document": "AtlasCopca-annual-report-2024.pdf",
+        "page": 16,
+        "content_type": "text",
+        "chunk_id": "f3989b2d-1928-5613-a0a1-c2559b3bf119_page_16_text_chunk_4",
+        "image_path": null,
+        "page_image_path": "data\\assets\\f3989b2d-1928-5613-a0a1-c2559b3bf119\\pages\\page_016.png"
+      },
+      {
+        "document": "AtlasCopca-annual-report-2024.pdf",
+        "page": 25,
+        "content_type": "text",
+        "chunk_id": "f3989b2d-1928-5613-a0a1-c2559b3bf119_page_25_text_chunk_4",
+        "image_path": null,
+        "page_image_path": "data\\assets\\f3989b2d-1928-5613-a0a1-c2559b3bf119\\pages\\page_025.png"
+      },
+      {
+        "document": "AtlasCopca-annual-report-2024.pdf",
+        "page": 3,
+        "content_type": "text",
+        "chunk_id": "f3989b2d-1928-5613-a0a1-c2559b3bf119_page_3_text_chunk_1",
+        "image_path": null,
+        "page_image_path": "data\\assets\\f3989b2d-1928-5613-a0a1-c2559b3bf119\\pages\\page_003.png"
+      },
+      {
+        "document": "AtlasCopca-annual-report-2024.pdf",
+        "page": 126,
+        "content_type": "text",
+        "chunk_id": "f3989b2d-1928-5613-a0a1-c2559b3bf119_page_126_text_chunk_1",
+        "image_path": null,
+        "page_image_path": "data\\assets\\f3989b2d-1928-5613-a0a1-c2559b3bf119\\pages\\page_126.png"
+      },
+      {
+        "document": "AtlasCopca-annual-report-2024.pdf",
+        "page": 22,
+        "content_type": "text",
+        "chunk_id": "f3989b2d-1928-5613-a0a1-c2559b3bf119_page_22_text_chunk_5",
+        "image_path": null,
+        "page_image_path": "data\\assets\\f3989b2d-1928-5613-a0a1-c2559b3bf119\\pages\\page_022.png"
+      }
+    ]
+  },
+  {
+    "case_id": "atlas_003",
+    "question": "What was Atlas Copco Group's revenue in 2035?",
+    "category": "unavailable_information",
+    "retrieved_pages": [],
+    "relevant_pages": [],
+    "precision_at_k": 0.0,
+    "recall_at_k": 0.0,
+    "f1_score": 0.0,
+    "groundedness": 0.0,
+    "overall_score": 0.0,
+    "answer": "I could not find enough information in the provided documents to answer this question.",
+    "sources": []
+  },
+  {
+    "case_id": "atlas_004",
+    "question": "Did Atlas Copco Group have an operating margin of 50% in 2024?",
+    "category": "misleading_question",
+    "retrieved_pages": [
+      "16",
+      "3",
+      "25",
+      "90"
+    ],
+    "relevant_pages": [
+      "3",
+      "5"
+    ],
+    "precision_at_k": 0.25,
+    "recall_at_k": 0.5,
+    "f1_score": 0.333,
+    "groundedness": 0.0,
+    "overall_score": 0.2,
+    "answer": "I'm sorry, but I need more context or information about the conversation you're referring to. Could you please provide me with the specific details or questions related to this conversation? That way, I can better assist you with your question and ensure that my response is accurate and relevant.",
+    "sources": [
+      {
+        "document": "AtlasCopca-annual-report-2024.pdf",
+        "page": 16,
+        "content_type": "text",
+        "chunk_id": "f3989b2d-1928-5613-a0a1-c2559b3bf119_page_16_text_chunk_4",
+        "image_path": null,
+        "page_image_path": "data\\assets\\f3989b2d-1928-5613-a0a1-c2559b3bf119\\pages\\page_016.png"
+      },
+      {
+        "document": "AtlasCopca-annual-report-2024.pdf",
+        "page": 3,
+        "content_type": "text",
+        "chunk_id": "f3989b2d-1928-5613-a0a1-c2559b3bf119_page_3_text_chunk_1",
+        "image_path": null,
+        "page_image_path": "data\\assets\\f3989b2d-1928-5613-a0a1-c2559b3bf119\\pages\\page_003.png"
+      },
+      {
+        "document": "AtlasCopca-annual-report-2024.pdf",
+        "page": 25,
+        "content_type": "text",
+        "chunk_id": "f3989b2d-1928-5613-a0a1-c2559b3bf119_page_25_text_chunk_4",
+        "image_path": null,
+        "page_image_path": "data\\assets\\f3989b2d-1928-5613-a0a1-c2559b3bf119\\pages\\page_025.png"
+      },
+      {
+        "document": "AtlasCopca-annual-report-2024.pdf",
+        "page": 90,
+        "content_type": "text",
+        "chunk_id": "f3989b2d-1928-5613-a0a1-c2559b3bf119_page_90_text_chunk_3",
+        "image_path": null,
+        "page_image_path": "data\\assets\\f3989b2d-1928-5613-a0a1-c2559b3bf119\\pages\\page_090.png"
+      }
+    ]
+  }
+]

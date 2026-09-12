@@ -1,0 +1,4 @@
+{"case_id":"atlas_001","category":"single_document","question":"What was Atlas Copco Group's revenue in 2024?","expected_answer":"MSEK 176,771","relevant_pages":[3,5]}
+{"case_id":"atlas_002","category":"single_document","question":"What was Atlas Copco Group's operating margin in 2024?","expected_answer":"21.6%","relevant_pages":[3,5]}
+{"case_id":"atlas_003","category":"unavailable_information","question":"What was Atlas Copco Group's revenue in 2035?","expected_answer":"The information was not found.","relevant_pages":[]}
+{"case_id":"atlas_004","category":"misleading_question","question":"Did Atlas Copco Group have an operating margin of 50% in 2024?","expected_answer":"No. The operating margin was 21.6% in 2024.","relevant_pages":[3,5]}
