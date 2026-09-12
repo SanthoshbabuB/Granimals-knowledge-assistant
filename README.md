@@ -3,7 +3,7 @@
 OVERVIEW : Granimals Knowledge Assistant is a multimodal AI-powered document question-answering system built using FastAPI, Streamlit, Qdrant, Ollama, BM25, LangChain, PyMuPDF, OCR, and RRF hybrid search. It allows users to upload multiple PDF documents, extracts and processes text, tables and visual content, converts document chunks into embeddings, stores them in Qdrant, retrieves relevant information using hybrid search, reranks the results, and generates grounded answers using a local LLM with document/page citations.
 
                                                                TECH TOOLS
-                            [NOTE: My personel lap is below 8GB RAM, so I used ollama for local run and very small model ]
+                            [NOTE: My personal lap is below 8GB RAM, so I used ollama for local run and very small model ]
 FastAPI – Backend REST API
 Streamlit – Interactive chat UI and multiple PDF upload
 PyMuPDF – PDF text extraction and document processing
